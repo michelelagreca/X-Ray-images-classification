@@ -23,7 +23,6 @@ In order to have a better understanding of whether our models really "understood
 In this project we built three different models with different characteristics, and we proposed two different ensemble approaches, to be considered according to the usage. The results obtained showed a high level of accuracy, proving the effectiveness of using CNNs for image classification tasks. Additionally, the use of Grad-CAM and Shapley explanation helped provide insight into the decision-making process of the model, enhancing its interpretability and reliability.
 
 ## Group Components
-
 | Cognome | Nome | e-mail | Codice Persona |
 | --- | --- | --- | --- |
 | La Greca  | Michele Carlo | michelecarlo.lagreca@mail.polimi.it | 10864460 |
