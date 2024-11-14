@@ -1,6 +1,6 @@
 # X-Ray-images-classification
 This project was part of the exam and of the evaluation of the course 'Applied AI in Biomedicine' at Politecnico di Milano. 
-We had to face the problem of X-ray image classification regarding chest X-ray images. We implemented and compared three different deep learning models in order to correctly classify X-ray images in 3 possible classes: Normal(N), Pneumonia(P) and Tubercolosis(T). In addition, an Explainable AI analysis has been implemented.
+We had to face the problem of X-ray image classification regarding chest X-ray images. We implemented and compared three different deep learning models in order to correctly classify X-ray images in 3 possible classes: Normal(N), Pneumonia(P) and Tuberculosis(T). In addition, an Explainable AI analysis has been implemented.
 <br />
 
 ## Data
